@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+	<file>resources/changeLog/QBudgetBook.txt</file>
+	<file>resources/icons/booking.png</file>
+	<file>resources/icons/configuration.png</file>
+	<file>resources/icons/quit.png</file>
+    </qresource>
+</RCC>

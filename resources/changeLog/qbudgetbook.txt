@@ -1,0 +1,23 @@
+QBudgetBook
+Author:
+
+#######################################
+
+% Version 0.0.3
+# mask config, implement create new button
+# app, integrate a style-sheet(for better looking)
+# app, persistance layer, change to a database
+# app, integrate a config file for initial settings from outside
+# mask booking, add a edit button to reopen a booking
+
+* Version 0.0.2
+- mask booking, add a dialog to insert new bookings
+- mask booking, add a remove button to delete bookings
+- mask booking, add a slot to detect when a entry was selected
+
+* Version 0.0.1
+- init code structure
+- app, add booking mask to overview all bookings
+- app, add a config mask to do general settings
+ 
+

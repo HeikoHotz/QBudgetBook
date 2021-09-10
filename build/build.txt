@@ -1,0 +1,6 @@
+- on windows system tested...
+- open CMAKE
+- setup the path to the source code and the build folder
+- Configure project and generate the source code
+- open a command line
+- mingw32-make.exe 
